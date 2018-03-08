@@ -1,0 +1,10 @@
+{
+  "generator-openapi-repo": {
+    "importExistingSpec": false,
+    "name": "test",
+    "repo": "imnotashrimp/redoc-test",
+    "splitSpec": false,
+    "samples": true,
+    "installSwaggerUI": true
+  }
+}
